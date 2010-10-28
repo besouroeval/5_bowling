@@ -12,7 +12,7 @@ public class Bowling {
 			total += ball1;
 			total += ball2;
 			
-			if(i<19) {
+			if(i<10) {
 				
 			}
 			
