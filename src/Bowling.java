@@ -16,6 +16,7 @@ public class Bowling {
 				
 				total += game[2*i+2];
 				
+				// two following strikes
 				if (game[2*i+2] == 10) {
 					total += game[2*i+4];
 					
