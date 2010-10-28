@@ -1,9 +1,9 @@
 
 public class Bowling {
 
-	public static int score(int[] is) {
+	public static int score(int[] game) {
 		int total = 0;
-		for(int turn: is){
+		for(int turn: game){
 			total += turn;
 		}
 		return total;
