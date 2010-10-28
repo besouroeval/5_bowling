@@ -59,4 +59,9 @@ public class BowlingTest {
 	public void shouldComputePerfectGame() {
 		Assert.assertEquals(300, Bowling.score(new int[]{10,0, 10,0, 10,0, 10,0, 10,0, 10,0, 10,0, 10,0, 10,0, 10,10,10 }));
 	}
+	
+	@Test
+	public void shouldComputeAllSpares() {
+		Assert.assertEquals(300, Bowling.score(new int[]{10,0, 10,0, 10,0, 10,0, 10,0, 10,0, 10,0, 10,0, 10,0, 10,10,10 }));
+	}
 }
