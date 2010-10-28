@@ -30,4 +30,9 @@ public class BowlingTest {
 		Assert.assertEquals(23, Bowling.score(new int[]{1,9,1,9,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0}));
 	}
 	
+	@Test
+	public void shouldComputeOneStrike() {
+		Assert.assertEquals(23, Bowling.score(new int[]{1,9,1,9,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0}));
+	}
+	
 }
