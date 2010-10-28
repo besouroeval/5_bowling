@@ -95,3 +95,6 @@ UnitTestCaseAction 1288283668203 BowlingTest.java OK
 UnitTestSessionAction 1288283668203 BowlingTest.java OK
 EditAction 1288283674530 Bowling.java 337 1 4 0
 EditAction 1288283688723 Bowling.java 382 1 4 0
+UnitTestCaseAction 1288283690827 BowlingTest.java OK
+UnitTestSessionAction 1288283690828 BowlingTest.java OK
+EditAction 1288283723765 BowlingTest.java 667 4 4 4
