@@ -11,6 +11,8 @@ public class Bowling {
 			
 			if (spare) {
 				total += frameTotal;
+			} else {
+				total += frameTotal;
 			}
 			
 			if (frameTotal == 10) {
