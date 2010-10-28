@@ -9,11 +9,7 @@ public class Bowling {
 			frameTotal += game[2*i];
 			frameTotal += game[2*i+1];
 			
-			if (spare) {
-				total += frameTotal;
-			} else {
-				total += frameTotal;
-			}
+			total += frameTotal;
 			
 			if (frameTotal == 10) {
 				spare = true;
