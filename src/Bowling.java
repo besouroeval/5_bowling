@@ -14,8 +14,7 @@ public class Bowling {
 			if (strikes == 1) {
 				if (ball1 == 10) {
 					total += 2*ball1;
-					total += 2*ball2;
-					strikes -= 1;
+					strikes += 1;
 					
 				} else {
 					total += 2*ball1;
