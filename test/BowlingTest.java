@@ -54,4 +54,9 @@ public class BowlingTest {
 	public void shouldComputeLastBall() {
 		Assert.assertEquals(12, Bowling.score(new int[]{0,0, 0,0, 0,0, 0,0, 0,0, 0,0, 0,0, 0,0, 0,0, 10,1,1 }));
 	}
+	
+	@Test
+	public void shouldComputePerfectGame() {
+		Assert.assertEquals(12, Bowling.score(new int[]{0,0, 0,0, 0,0, 0,0, 0,0, 0,0, 0,0, 0,0, 0,0, 10,1,1 }));
+	}
 }
