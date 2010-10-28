@@ -180,3 +180,6 @@ EditAction 1288284413274 Bowling.java 881 1 5 0
 UnitTestCaseAction 1288284423085 BowlingTest.java FAIL
 UnitTestSessionAction 1288284423085 BowlingTest.java FAIL
 EditAction 1288284478045 Bowling.java 610 1 5 0
+UnitTestCaseAction 1288284479968 BowlingTest.java FAIL
+UnitTestSessionAction 1288284479968 BowlingTest.java FAIL
+EditAction 1288284485478 BowlingTest.java 1147 7 7 7
