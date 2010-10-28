@@ -91,3 +91,6 @@ CompilationAction 1288283653736 Bowling.java
 UnitTestCaseAction 1288283658116 BowlingTest.java FAIL
 UnitTestSessionAction 1288283658116 BowlingTest.java FAIL
 EditAction 1288283666674 Bowling.java 330 1 4 0
+UnitTestCaseAction 1288283668203 BowlingTest.java OK
+UnitTestSessionAction 1288283668203 BowlingTest.java OK
+EditAction 1288283674530 Bowling.java 337 1 4 0
