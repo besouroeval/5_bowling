@@ -13,6 +13,8 @@ public class Bowling {
 			
 			if (strikes == 2) {
 				
+				
+				
 			} else if (strikes == 1) {
 				
 				if (ball1 == 10) {
