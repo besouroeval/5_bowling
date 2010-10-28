@@ -230,3 +230,7 @@ EditAction 1288284913560 BowlingTest.java 1318 8 8 8
 EditAction 1288284922106 BowlingTest.java 1319 8 8 8
 EditAction 1288284928776 BowlingTest.java 1319 8 8 8
 EditAction 1288284932634 BowlingTest.java 1322 8 8 8
+UnitTestCaseAction 1288284940376 BowlingTest.java OK
+UnitTestSessionAction 1288284940377 BowlingTest.java OK
+RefactoringAction 1288284949648 BowlingTest.java ADD void shouldComputeTwoFollowingSpares()/2 METHOD
+EditAction 1288284953196 BowlingTest.java 1479 9 9 9
