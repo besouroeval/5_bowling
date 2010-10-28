@@ -121,3 +121,6 @@ RefactoringAction 1288283858281 BowlingTest.java RENAME shouldComputeTwoFollowin
 EditAction 1288283859933 BowlingTest.java 971 6 6 6
 EditAction 1288283872299 BowlingTest.java 972 6 6 6
 EditAction 1288283893998 BowlingTest.java 972 6 6 6
+UnitTestCaseAction 1288283897791 BowlingTest.java FAIL
+UnitTestSessionAction 1288283897792 BowlingTest.java FAIL
+EditAction 1288283908375 BowlingTest.java 972 6 6 6
