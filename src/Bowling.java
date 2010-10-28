@@ -22,21 +22,9 @@ public class Bowling {
 				
 			}
 			
-			if (strike) {
-				total += 2*ball1;
-				total += 2*ball2;
-				strike = false;
+			total += ball1;
+			total += ball2;
 				
-			} else if (spare) {
-				total += 2*ball1;
-				total += ball2;
-				spare = false;
-				
-			} else {
-				total += ball1;
-				total += ball2;
-				
-			}
 			
 			if (ball1 == 10) {
 				strike = true;
