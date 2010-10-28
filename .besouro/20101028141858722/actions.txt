@@ -279,3 +279,4 @@ UnitTestSessionAction 1288285424664 BowlingTest.java OK
 RefactoringAction 1288285435350 BowlingTest.java ADD void shouldComputeLastBall()/2 METHOD
 EditAction 1288285440730 BowlingTest.java 1815 11 11 11
 EditAction 1288285444133 BowlingTest.java 1816 11 11 11
+EditAction 1288285461966 BowlingTest.java 1827 11 11 11
