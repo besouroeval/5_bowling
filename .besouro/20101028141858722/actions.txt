@@ -229,3 +229,4 @@ RefactoringAction 1288284913196 BowlingTest.java RENAME shouldComputeTwoFollowin
 EditAction 1288284913560 BowlingTest.java 1318 8 8 8
 EditAction 1288284922106 BowlingTest.java 1319 8 8 8
 EditAction 1288284928776 BowlingTest.java 1319 8 8 8
+EditAction 1288284932634 BowlingTest.java 1322 8 8 8
