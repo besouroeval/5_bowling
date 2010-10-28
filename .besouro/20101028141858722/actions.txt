@@ -152,3 +152,9 @@ CompilationAction 1288284200415 Bowling.java
 CompilationAction 1288284200674 Bowling.java
 EditAction 1288284208482 Bowling.java 606 1 5 0
 EditAction 1288284212390 Bowling.java 611 1 5 0
+UnitTestCaseAction 1288284214101 BowlingTest.java OK
+UnitTestSessionAction 1288284214101 BowlingTest.java OK
+RefactoringAction 1288284228790 BowlingTest.java ADD void shouldComputeOneStrike()/2 METHOD
+RefactoringAction 1288284234307 BowlingTest.java RENAME shouldComputeOneStrike()/2=>void shouldComputeTwoFollowingStrike() METHOD
+RefactoringAction 1288284235819 BowlingTest.java RENAME shouldComputeTwoFollowingStrike()=>void shouldComputeTwoFollowingStrikes() METHOD
+EditAction 1288284239591 BowlingTest.java 1130 7 7 7
