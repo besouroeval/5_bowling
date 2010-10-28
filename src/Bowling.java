@@ -17,16 +17,16 @@ public class Bowling {
 				total += game[2*i+2];
 				
 				if (2*i < 18) {
-					
-				}
-				// two following strikes
-				if (game[2*i+2] == 10) {
-					// first ball, two frames ahead
-					total += game[2*i+4];
-					
-				} else {
-					// second ball, next frame
-					total += game[2*i+3];
+					// two following strikes
+					if (game[2*i+2] == 10) {
+						// first ball, two frames ahead
+						total += game[2*i+4];
+						
+					} else {
+						// second ball, next frame
+						total += game[2*i+3];
+						
+					}
 					
 				}
 				
