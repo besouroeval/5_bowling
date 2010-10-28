@@ -12,6 +12,8 @@ public class Bowling {
 			int ball2 = game[2*i+1];
 			
 			if (spare) {
+				
+			} else if (spare) {
 				total += 2*ball1;
 				total += ball2;
 				spare = false;
