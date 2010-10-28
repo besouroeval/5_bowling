@@ -21,7 +21,7 @@ public class BowlingTest {
 	}
 	
 	@Test
-	public void shouldComputeSpare() {
+	public void shouldComputeOneSpare() {
 		Assert.assertEquals(12, Bowling.score(new int[]{1,9,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0}));
 	}
 	
