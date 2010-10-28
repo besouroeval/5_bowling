@@ -29,6 +29,7 @@ public class Bowling {
 			
 			if (ball1 == 10) {
 				strikes += 1;
+				
 			} else if (ball1 + ball2 == 10) {
 				spare = true;
 			}
