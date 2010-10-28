@@ -12,6 +12,7 @@ public class Bowling {
 			int ball2 = game[2*i+1];
 			
 			if (strikes == 1) {
+				
 				if (ball1 == 10) {
 					total += 2*ball1;
 					strikes += 1;
