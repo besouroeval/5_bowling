@@ -15,4 +15,9 @@ public class BowlingTest {
 		Assert.assertEquals(1, Bowling.score(new int[]{1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0}));
 	}
 	
+	@Test
+	public void shouldComputeTotalSum() {
+		Assert.assertEquals(10, Bowling.score(new int[]{1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1}));
+	}
+	
 }
