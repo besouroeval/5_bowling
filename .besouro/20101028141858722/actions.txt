@@ -136,3 +136,18 @@ EditAction 1288283966356 Bowling.java 610 1 5 0
 UnitTestCaseAction 1288283968786 BowlingTest.java OK
 UnitTestSessionAction 1288283968787 BowlingTest.java OK
 EditAction 1288284161918 Bowling.java 606 1 5 0
+CompilationAction 1288284162127 Bowling.java
+FileOpenedAction 1288284166844 Bowling.java 606 1 5 0
+CompilationAction 1288284170928 Bowling.java
+CompilationAction 1288284171605 Bowling.java
+CompilationAction 1288284171605 Bowling.java
+CompilationAction 1288284173294 Bowling.java
+CompilationAction 1288284173294 Bowling.java
+CompilationAction 1288284173412 Bowling.java
+CompilationAction 1288284177070 Bowling.java
+CompilationAction 1288284177226 Bowling.java
+CompilationAction 1288284195424 Bowling.java
+CompilationAction 1288284195585 Bowling.java
+CompilationAction 1288284200415 Bowling.java
+CompilationAction 1288284200674 Bowling.java
+EditAction 1288284208482 Bowling.java 606 1 5 0

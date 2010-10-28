@@ -3,7 +3,7 @@ public class Bowling {
 
 	public static int score(int[] game) {
 		int total = 0;
-		boolean strike = 0;
+		int strikes = 0;
 		boolean spare = false;
 		
 		for(int i=0 ; i< game.length/2 ; i++){
@@ -11,10 +11,10 @@ public class Bowling {
 			int ball1 = game[2*i];
 			int ball2 = game[2*i+1];
 			
-			if (strike) {
+			if (strikes == 1) {
 				total += 2*ball1;
 				total += 2*ball2;
-				strike = false;
+				strikes -= 1;
 				
 			} else if (spare) {
 				total += 2*ball1;
@@ -28,7 +28,7 @@ public class Bowling {
 			}
 			
 			if (ball1 == 10) {
-				strike = true;
+				strikes += 1;
 			} else if (ball1 + ball2 == 10) {
 				spare = true;
 			}
