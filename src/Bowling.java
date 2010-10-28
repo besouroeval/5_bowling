@@ -5,8 +5,9 @@ public class Bowling {
 		int total = 0;
 		for(int i=0 ; i< game.length/2 ; i++){
 			int frameTotal = 0;
-			total += game[2*i];
-			total += game[2*i+1];
+			frameTotal += game[2*i];
+			frameTotal += game[2*i+1];
+			total += frameTotal;
 		}
 		return total;
 	}
