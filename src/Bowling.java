@@ -18,7 +18,6 @@ public class Bowling {
 				
 			} else if (spare) {
 				total += ball1;
-				total += ball2;
 				spare = false;
 				
 			}
