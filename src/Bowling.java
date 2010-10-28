@@ -11,17 +11,6 @@ public class Bowling {
 			int ball1 = game[2*i];
 			int ball2 = game[2*i+1];
 
-			if (strike) {
-				total += ball1;
-				total += ball2;
-				strike = false;
-				
-			} else if (spare) {
-				total += ball1;
-				spare = false;
-				
-			}
-			
 			total += ball1;
 			total += ball2;
 				
@@ -30,6 +19,17 @@ public class Bowling {
 				strike = true;
 			} else if (ball1 + ball2 == 10) {
 				spare = true;
+			}
+			
+			if (strike) {
+				total += game[2*i+2];
+				total += game[2*i+3];
+				strike = false;
+				
+			} else if (spare) {
+				total += ball1;
+				spare = false;
+				
 			}
 			
 		}
