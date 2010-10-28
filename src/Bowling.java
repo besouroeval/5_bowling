@@ -2,7 +2,11 @@
 public class Bowling {
 
 	public static int score(int[] is) {
-		return 0;
+		int total = 0;
+		for(int turn: is){
+			total += turn;
+		}
+		return total;
 	}
 
 }
