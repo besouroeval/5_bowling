@@ -238,3 +238,11 @@ EditAction 1288284957158 BowlingTest.java 1479 9 9 9
 EditAction 1288284979297 BowlingTest.java 1492 9 8 8
 CompilationAction 1288284979483 BowlingTest.java
 EditAction 1288284984535 BowlingTest.java 1496 9 9 9
+UnitTestCaseAction 1288284991784 BowlingTest.java OK
+UnitTestSessionAction 1288284991785 BowlingTest.java OK
+RefactoringAction 1288284995856 BowlingTest.java ADD void shouldComputeThreeFollowingStrikes()/2 METHOD
+RefactoringAction 1288285003883 BowlingTest.java RENAME shouldComputeThreeFollowingStrikes()/2=>void shouldComputeL() METHOD
+RefactoringAction 1288285004896 BowlingTest.java RENAME shouldComputeL()=>void shouldComputeLas() METHOD
+RefactoringAction 1288285005918 BowlingTest.java RENAME shouldComputeLas()=>void shouldComputeLast() METHOD
+RefactoringAction 1288285011777 BowlingTest.java RENAME shouldComputeLast()=>void shouldComputeLastBall() METHOD
+EditAction 1288285017324 BowlingTest.java 1662 10 10 10

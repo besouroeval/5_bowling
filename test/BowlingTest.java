@@ -49,4 +49,9 @@ public class BowlingTest {
 	public void shouldComputeThreeFollowingStrikes() {
 		Assert.assertEquals(30+21+12+2, Bowling.score(new int[]{10,0, 10,0, 10,0, 1,1, 0,0, 0,0, 0,0, 0,0, 0,0, 0,0 }));
 	}
+	
+	@Test
+	public void shouldComputeLastBall() {
+		Assert.assertEquals(30+21+12+2, Bowling.score(new int[]{10,0, 10,0, 10,0, 1,1, 0,0, 0,0, 0,0, 0,0, 0,0, 0,0 }));
+	}
 }
