@@ -57,6 +57,6 @@ public class BowlingTest {
 	
 	@Test
 	public void shouldComputePerfectGame() {
-		Assert.assertEquals(12, Bowling.score(new int[]{0,0, 0,0, 0,0, 0,0, 0,0, 0,0, 0,0, 0,0, 0,0, 10,1,1 }));
+		Assert.assertEquals(300, Bowling.score(new int[]{0,0, 0,0, 0,0, 0,0, 0,0, 0,0, 0,0, 0,0, 0,0, 10,1,1 }));
 	}
 }
