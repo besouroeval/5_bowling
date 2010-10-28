@@ -5,3 +5,5 @@ RefactoringAction 1288282777758 BowlingTest.java RENAME should=>void shouldCom F
 RefactoringAction 1288282781768 BowlingTest.java RENAME shouldCom=>void shouldCompute FIELD
 RefactoringAction 1288282786280 BowlingTest.java RENAME shouldCompute=>void shouldComputeZeroGame() METHOD
 EditAction 1288282787105 BowlingTest.java 80 1 0 0
+RefactoringAction 1288282793851 BowlingTest.java ADD import org.junit.Test IMPORT
+EditAction 1288282795582 BowlingTest.java 115 1 0 0
