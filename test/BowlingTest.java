@@ -20,4 +20,9 @@ public class BowlingTest {
 		Assert.assertEquals(20, Bowling.score(new int[]{1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1}));
 	}
 	
+	@Test
+	public void shouldComputeSpare() {
+		Assert.assertEquals(20, Bowling.score(new int[]{1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1}));
+	}
+	
 }

@@ -39,3 +39,9 @@ EditAction 1288283057995 BowlingTest.java 525 3 3 3
 UnitTestCaseAction 1288283076749 BowlingTest.java FAIL
 UnitTestSessionAction 1288283076750 BowlingTest.java FAIL
 EditAction 1288283084007 BowlingTest.java 525 3 3 3
+UnitTestCaseAction 1288283086420 BowlingTest.java OK
+UnitTestSessionAction 1288283086421 BowlingTest.java OK
+RefactoringAction 1288283099666 BowlingTest.java ADD void shouldComputeTotalSum()/2 METHOD
+RefactoringAction 1288283103681 BowlingTest.java RENAME shouldComputeTotalSum()/2=>void shouldComputeSpa() METHOD
+RefactoringAction 1288283104692 BowlingTest.java RENAME shouldComputeSpa()=>void shouldComputeSpare() METHOD
+EditAction 1288283106630 BowlingTest.java 667 4 4 4
