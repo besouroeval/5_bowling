@@ -16,6 +16,7 @@ public class Bowling {
 				
 				total += game[2*i+2];
 				
+				// if its not the last frame
 				if (2*i < 18) {
 					
 					// two following strikes
