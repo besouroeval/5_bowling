@@ -56,12 +56,13 @@ public class BowlingTest {
 	}
 	
 	@Test
+	public void shouldComputeSpareInLastBall() {
+		Assert.assertEquals(12, Bowling.score(new int[]{0,0, 0,0, 0,0, 0,0, 0,0, 0,0, 0,0, 0,0, 0,0, 10,1,1 }));
+	}
+	
+	@Test
 	public void shouldComputePerfectGame() {
 		Assert.assertEquals(300, Bowling.score(new int[]{10,0, 10,0, 10,0, 10,0, 10,0, 10,0, 10,0, 10,0, 10,0, 10,10,10 }));
 	}
 	
-	@Test
-	public void shouldComputeAllSpares() {
-		Assert.assertEquals(300, Bowling.score(new int[]{10,0, 10,0, 10,0, 10,0, 10,0, 10,0, 10,0, 10,0, 10,0, 10,10,10 }));
-	}
 }

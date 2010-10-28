@@ -285,3 +285,7 @@ UnitTestSessionAction 1288285464365 BowlingTest.java OK
 RefactoringAction 1288285472534 BowlingTest.java ADD void shouldComputePerfectGame()/2 METHOD
 RefactoringAction 1288285487236 BowlingTest.java RENAME shouldComputePerfectGame()/2=>void shouldComputeAllSpares() METHOD
 EditAction 1288285487547 BowlingTest.java 1998 12 12 12
+RefactoringAction 1288285512343 BowlingTest.java REMOVE shouldComputeAllSpares() METHOD
+RefactoringAction 1288285524900 BowlingTest.java ADD void shouldComputeLastBall()/2 METHOD
+RefactoringAction 1288285528426 BowlingTest.java RENAME shouldComputeLastBall()/2=>void shouldComputeSpareInLastBall() METHOD
+EditAction 1288285528741 BowlingTest.java 1994 12 12 12
