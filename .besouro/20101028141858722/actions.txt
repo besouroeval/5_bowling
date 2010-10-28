@@ -297,3 +297,5 @@ RefactoringAction 1288285549976 BowlingTest.java ADD void shouldComputePerfectGa
 EditAction 1288285557043 BowlingTest.java 2172 13 13 13
 EditAction 1288285576049 BowlingTest.java 2161 13 13 13
 EditAction 1288285585251 BowlingTest.java 2161 13 13 13
+UnitTestCaseAction 1288285591069 BowlingTest.java OK
+UnitTestSessionAction 1288285591069 BowlingTest.java OK
