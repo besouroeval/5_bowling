@@ -67,7 +67,7 @@ public class BowlingTest {
 	
 	@Test
 	public void shouldComputeAllHalfSparesGame() {
-		Assert.assertEquals(300, Bowling.score(new int[]{10,0, 10,0, 10,0, 10,0, 10,0, 10,0, 10,0, 10,0, 10,0, 10,10,10 }));
+		Assert.assertEquals(300, Bowling.score(new int[]{5,5, 5,5, 5,5, 5,5, 5,5, 5,5, 5,5, 5,5, 5,5, 5,5,5  }));
 	}
 	
 }

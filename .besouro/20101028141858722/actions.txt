@@ -295,3 +295,4 @@ UnitTestCaseAction 1288285541226 BowlingTest.java OK
 UnitTestSessionAction 1288285541227 BowlingTest.java OK
 RefactoringAction 1288285549976 BowlingTest.java ADD void shouldComputePerfectGame()/2 METHOD
 EditAction 1288285557043 BowlingTest.java 2172 13 13 13
+EditAction 1288285576049 BowlingTest.java 2161 13 13 13
