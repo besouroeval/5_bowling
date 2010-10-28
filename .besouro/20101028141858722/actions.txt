@@ -7,3 +7,5 @@ RefactoringAction 1288282786280 BowlingTest.java RENAME shouldCompute=>void shou
 EditAction 1288282787105 BowlingTest.java 80 1 0 0
 RefactoringAction 1288282793851 BowlingTest.java ADD import org.junit.Test IMPORT
 EditAction 1288282795582 BowlingTest.java 115 1 0 0
+RefactoringAction 1288282809923 BowlingTest.java ADD import junit.framework.Assert IMPORT
+EditAction 1288282848932 BowlingTest.java 237 1 1 1
