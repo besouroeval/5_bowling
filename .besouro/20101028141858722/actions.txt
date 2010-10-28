@@ -289,3 +289,4 @@ RefactoringAction 1288285512343 BowlingTest.java REMOVE shouldComputeAllSpares()
 RefactoringAction 1288285524900 BowlingTest.java ADD void shouldComputeLastBall()/2 METHOD
 RefactoringAction 1288285528426 BowlingTest.java RENAME shouldComputeLastBall()/2=>void shouldComputeSpareInLastBall() METHOD
 EditAction 1288285528741 BowlingTest.java 1994 12 12 12
+EditAction 1288285534429 BowlingTest.java 1993 12 12 12

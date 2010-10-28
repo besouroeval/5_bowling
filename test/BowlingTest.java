@@ -57,7 +57,7 @@ public class BowlingTest {
 	
 	@Test
 	public void shouldComputeSpareInLastBall() {
-		Assert.assertEquals(12, Bowling.score(new int[]{0,0, 0,0, 0,0, 0,0, 0,0, 0,0, 0,0, 0,0, 0,0, 10,1,1 }));
+		Assert.assertEquals(12, Bowling.score(new int[]{0,0, 0,0, 0,0, 0,0, 0,0, 0,0, 0,0, 0,0, 0,0, 9,1,1 }));
 	}
 	
 	@Test
