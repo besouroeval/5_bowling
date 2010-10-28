@@ -18,7 +18,6 @@ public class Bowling {
 					total += game[2*i+3];
 				} else {
 					total += game[2*i+3];
-					
 				}
 				
 			} else if (ball1 + ball2 == 10) {
