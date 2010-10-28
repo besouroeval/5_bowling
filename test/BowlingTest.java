@@ -22,7 +22,7 @@ public class BowlingTest {
 	
 	@Test
 	public void shouldComputeSpare() {
-		Assert.assertEquals(20, Bowling.score(new int[]{1,9,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1}));
+		Assert.assertEquals(28, Bowling.score(new int[]{1,9,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1}));
 	}
 	
 }

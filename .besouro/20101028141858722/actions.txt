@@ -46,3 +46,4 @@ RefactoringAction 1288283103681 BowlingTest.java RENAME shouldComputeTotalSum()/
 RefactoringAction 1288283104692 BowlingTest.java RENAME shouldComputeSpa()=>void shouldComputeSpare() METHOD
 EditAction 1288283106630 BowlingTest.java 667 4 4 4
 EditAction 1288283113024 BowlingTest.java 667 4 4 4
+EditAction 1288283119606 BowlingTest.java 667 4 4 4
