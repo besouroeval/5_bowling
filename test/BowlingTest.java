@@ -32,7 +32,7 @@ public class BowlingTest {
 	
 	@Test
 	public void shouldComputeOneStrike() {
-		Assert.assertEquals(23, Bowling.score(new int[]{10,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0}));
+		Assert.assertEquals(12, Bowling.score(new int[]{10,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0}));
 	}
 	
 }
