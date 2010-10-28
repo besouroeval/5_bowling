@@ -16,3 +16,4 @@ CompilationAction 1288282878994 BowlingTest.java
 FileOpenedAction 1288282883050 Bowling.java 27 0 0 0
 RefactoringAction 1288282883108 Bowling.java ADD static Object score(int METHOD
 EditAction 1288282888911 Bowling.java 80 1 1 0
+EditAction 1288282893517 BowlingTest.java 237 1 1 1
