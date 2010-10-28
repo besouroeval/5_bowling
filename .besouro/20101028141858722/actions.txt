@@ -236,3 +236,5 @@ RefactoringAction 1288284949648 BowlingTest.java ADD void shouldComputeTwoFollow
 EditAction 1288284953196 BowlingTest.java 1479 9 9 9
 EditAction 1288284957158 BowlingTest.java 1479 9 9 9
 EditAction 1288284979297 BowlingTest.java 1492 9 8 8
+CompilationAction 1288284979483 BowlingTest.java
+EditAction 1288284984535 BowlingTest.java 1496 9 9 9

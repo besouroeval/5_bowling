@@ -32,7 +32,7 @@ public class BowlingTest {
 	
 	@Test
 	public void shouldComputeThreeFollowingSpares() {
-		Assert.assertEquals(11+11+, Bowling.score(new int[]{1,9, 1,9, 1,9, 1,0, 0,0, 0,0, 0,0, 0,0, 0,0, 0,0}));
+		Assert.assertEquals(11+11+11+1, Bowling.score(new int[]{1,9, 1,9, 1,9, 1,0, 0,0, 0,0, 0,0, 0,0, 0,0, 0,0}));
 	}
 	
 	@Test
