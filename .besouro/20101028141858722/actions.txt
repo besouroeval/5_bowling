@@ -9,3 +9,10 @@ RefactoringAction 1288282793851 BowlingTest.java ADD import org.junit.Test IMPOR
 EditAction 1288282795582 BowlingTest.java 115 1 0 0
 RefactoringAction 1288282809923 BowlingTest.java ADD import junit.framework.Assert IMPORT
 EditAction 1288282848932 BowlingTest.java 237 1 1 1
+CompilationAction 1288282849114 BowlingTest.java
+RefactoringAction 1288282878184 Bowling.java ADD Bowling.java CLASS
+FileOpenedAction 1288282878594 Bowling.java 27 0 0 0
+CompilationAction 1288282878994 BowlingTest.java
+FileOpenedAction 1288282883050 Bowling.java 27 0 0 0
+RefactoringAction 1288282883108 Bowling.java ADD static Object score(int METHOD
+EditAction 1288282888911 Bowling.java 80 1 1 0
