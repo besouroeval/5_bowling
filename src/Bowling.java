@@ -16,6 +16,7 @@ public class Bowling {
 				
 				total += game[2*i+2];
 				
+				if (2*i)
 				// two following strikes
 				if (game[2*i+2] == 10) {
 					// first ball, two frames ahead
