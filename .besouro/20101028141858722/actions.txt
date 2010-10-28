@@ -106,3 +106,10 @@ EditAction 1288283740733 Bowling.java 443 1 4 0
 UnitTestCaseAction 1288283744094 BowlingTest.java OK
 UnitTestSessionAction 1288283744094 BowlingTest.java OK
 EditAction 1288283781957 BowlingTest.java 670 4 4 4
+UnitTestCaseAction 1288283783662 BowlingTest.java OK
+UnitTestSessionAction 1288283783663 BowlingTest.java OK
+RefactoringAction 1288283811132 BowlingTest.java ADD void shouldComputeOneSpare()/2 METHOD
+RefactoringAction 1288283815645 BowlingTest.java RENAME shouldComputeOneSpare()/2=>void shouldComputeTwoSpare() METHOD
+RefactoringAction 1288283817657 BowlingTest.java RENAME shouldComputeTwoSpare()=>void shouldComputeTwoFollowingSpare() METHOD
+RefactoringAction 1288283818669 BowlingTest.java RENAME shouldComputeTwoFollowingSpare()=>void shouldComputeTwoFollowingSpares() METHOD
+EditAction 1288283825762 BowlingTest.java 825 5 5 5

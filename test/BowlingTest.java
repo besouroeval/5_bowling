@@ -25,4 +25,9 @@ public class BowlingTest {
 		Assert.assertEquals(12, Bowling.score(new int[]{1,9,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0}));
 	}
 	
+	@Test
+	public void shouldComputeTwoFollowingSpares() {
+		Assert.assertEquals(12, Bowling.score(new int[]{1,9,1,9,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0}));
+	}
+	
 }
