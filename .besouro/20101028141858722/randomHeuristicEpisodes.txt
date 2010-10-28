@@ -24,4 +24,5 @@
 1288284940377 test-addition 1 31 true
 1288284991785 test-addition 1 42 true
 1288285424664 test-first 3 428 true
-1288285464365 test-addition 1 29 false
+1288285464365 test-addition 1 29 true
+1288285541227 test-addition 1 68 true

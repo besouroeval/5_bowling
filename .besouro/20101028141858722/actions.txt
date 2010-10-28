@@ -291,3 +291,7 @@ RefactoringAction 1288285528426 BowlingTest.java RENAME shouldComputeLastBall()/
 EditAction 1288285528741 BowlingTest.java 1994 12 12 12
 EditAction 1288285534429 BowlingTest.java 1993 12 12 12
 EditAction 1288285538417 BowlingTest.java 1993 12 12 12
+UnitTestCaseAction 1288285541226 BowlingTest.java OK
+UnitTestSessionAction 1288285541227 BowlingTest.java OK
+RefactoringAction 1288285549976 BowlingTest.java ADD void shouldComputePerfectGame()/2 METHOD
+EditAction 1288285557043 BowlingTest.java 2172 13 13 13
