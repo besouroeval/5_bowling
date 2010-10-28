@@ -246,3 +246,4 @@ RefactoringAction 1288285004896 BowlingTest.java RENAME shouldComputeL()=>void s
 RefactoringAction 1288285005918 BowlingTest.java RENAME shouldComputeLas()=>void shouldComputeLast() METHOD
 RefactoringAction 1288285011777 BowlingTest.java RENAME shouldComputeLast()=>void shouldComputeLastBall() METHOD
 EditAction 1288285017324 BowlingTest.java 1662 10 10 10
+EditAction 1288285026902 BowlingTest.java 1659 10 10 10
