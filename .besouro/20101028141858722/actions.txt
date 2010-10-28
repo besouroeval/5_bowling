@@ -119,3 +119,4 @@ UnitTestSessionAction 1288283845638 BowlingTest.java OK
 RefactoringAction 1288283854268 BowlingTest.java ADD void shouldComputeTwoFollowingSpares()/2 METHOD
 RefactoringAction 1288283858281 BowlingTest.java RENAME shouldComputeTwoFollowingSpares()/2=>void shouldComputeOneSpares() METHOD
 EditAction 1288283859933 BowlingTest.java 971 6 6 6
+EditAction 1288283872299 BowlingTest.java 972 6 6 6
