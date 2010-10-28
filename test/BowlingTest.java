@@ -10,4 +10,9 @@ public class BowlingTest {
 		Assert.assertEquals(0, Bowling.score(new int[]{0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0}));
 	}
 	
+	@Test
+	public void shouldComputeSingleHitGame() {
+		Assert.assertEquals(1, Bowling.score(new int[]{1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0}));
+	}
+	
 }

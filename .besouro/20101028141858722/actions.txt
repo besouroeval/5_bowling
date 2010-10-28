@@ -20,3 +20,7 @@ EditAction 1288282893517 BowlingTest.java 237 1 1 1
 UnitTestCaseAction 1288282903699 BowlingTest.java OK
 UnitTestSessionAction 1288282903700 BowlingTest.java OK
 EditAction 1288282908914 BowlingTest.java 231 1 1 1
+RefactoringAction 1288282915222 BowlingTest.java ADD void shouldComputeZeroGame()/2 METHOD
+RefactoringAction 1288282921236 BowlingTest.java RENAME shouldComputeZeroGame()/2=>void shouldComputeSingleGame() METHOD
+RefactoringAction 1288282923747 BowlingTest.java RENAME shouldComputeSingleGame()=>void shouldComputeSingleHitGame() METHOD
+EditAction 1288282928172 BowlingTest.java 380 2 2 2
