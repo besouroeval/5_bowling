@@ -30,7 +30,7 @@ public class Bowling {
 					}
 					
 				} else {
-					
+					total += game[2*i+3];
 				}
 				
 				
