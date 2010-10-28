@@ -158,3 +158,4 @@ RefactoringAction 1288284228790 BowlingTest.java ADD void shouldComputeOneStrike
 RefactoringAction 1288284234307 BowlingTest.java RENAME shouldComputeOneStrike()/2=>void shouldComputeTwoFollowingStrike() METHOD
 RefactoringAction 1288284235819 BowlingTest.java RENAME shouldComputeTwoFollowingStrike()=>void shouldComputeTwoFollowingStrikes() METHOD
 EditAction 1288284239591 BowlingTest.java 1130 7 7 7
+EditAction 1288284245447 BowlingTest.java 1130 7 7 7

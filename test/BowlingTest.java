@@ -37,7 +37,7 @@ public class BowlingTest {
 	
 	@Test
 	public void shouldComputeTwoFollowingStrikes() {
-		Assert.assertEquals(14, Bowling.score(new int[]{10,0,10,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0}));
+		Assert.assertEquals(14, Bowling.score(new int[]{10,0,10,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0}));
 	}
 	
 }
