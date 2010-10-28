@@ -22,6 +22,7 @@ public class Bowling {
 					total += game[2*i+4];
 					
 				} else {
+					// second ball, next frame
 					total += game[2*i+3];
 					
 				}
