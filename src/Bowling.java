@@ -18,8 +18,10 @@ public class Bowling {
 				
 				if (game[2*i+2] == 10) {
 					total += game[2*i+4];
+					
 				} else {
 					total += game[2*i+3];
+					
 				}
 				
 			} else if (ball1 + ball2 == 10) {
