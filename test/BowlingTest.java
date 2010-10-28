@@ -52,6 +52,6 @@ public class BowlingTest {
 	
 	@Test
 	public void shouldComputeLastBall() {
-		Assert.assertEquals(30+21+12+2, Bowling.score(new int[]{0,0, 0,0, 0,0, 0,0, 0,0, 0,0, 0,0, 0,0, 0,0, 0,0,0 }));
+		Assert.assertEquals(30+21+12+2, Bowling.score(new int[]{0,0, 0,0, 0,0, 0,0, 0,0, 0,0, 0,0, 0,0, 0,0, 10,1,1 }));
 	}
 }
