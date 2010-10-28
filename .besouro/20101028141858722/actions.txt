@@ -227,3 +227,4 @@ UnitTestSessionAction 1288284898772 BowlingTest.java OK
 RefactoringAction 1288284908677 BowlingTest.java ADD void shouldComputeTwoFollowingStrikes()/2 METHOD
 RefactoringAction 1288284913196 BowlingTest.java RENAME shouldComputeTwoFollowingStrikes()/2=>void shouldComputeThreeFollowingStrikes() METHOD
 EditAction 1288284913560 BowlingTest.java 1318 8 8 8
+EditAction 1288284922106 BowlingTest.java 1319 8 8 8
