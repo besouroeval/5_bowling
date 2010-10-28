@@ -14,4 +14,5 @@
 1288283783663 refactoring null 1 true
 1288283845638 test-addition 1 34 true
 1288283968787 test-first 3 114 true
-1288284214101 refactoring 2A 52 false
+1288284214101 refactoring 2A 52 true
+1288284487634 test-first 3 258 true
