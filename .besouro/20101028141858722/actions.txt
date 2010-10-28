@@ -1,0 +1,7 @@
+RefactoringAction 1288282761731 BowlingTest.java ADD BowlingTest.java CLASS
+FileOpenedAction 1288282763517 BowlingTest.java 31 0 0 0
+RefactoringAction 1288282772157 BowlingTest.java ADD void should FIELD
+RefactoringAction 1288282777758 BowlingTest.java RENAME should=>void shouldCom FIELD
+RefactoringAction 1288282781768 BowlingTest.java RENAME shouldCom=>void shouldCompute FIELD
+RefactoringAction 1288282786280 BowlingTest.java RENAME shouldCompute=>void shouldComputeZeroGame() METHOD
+EditAction 1288282787105 BowlingTest.java 80 1 0 0
