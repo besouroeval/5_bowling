@@ -36,3 +36,6 @@ RefactoringAction 1288283025090 BowlingTest.java ADD void shouldComputeSingleHit
 RefactoringAction 1288283034103 BowlingTest.java RENAME shouldComputeSingleHitGame()/2=>void shouldComputeTotalSumHitGame() METHOD
 RefactoringAction 1288283035616 BowlingTest.java RENAME shouldComputeTotalSumHitGame()=>void shouldComputeTotalSum() METHOD
 EditAction 1288283057995 BowlingTest.java 525 3 3 3
+UnitTestCaseAction 1288283076749 BowlingTest.java FAIL
+UnitTestSessionAction 1288283076750 BowlingTest.java FAIL
+EditAction 1288283084007 BowlingTest.java 525 3 3 3
