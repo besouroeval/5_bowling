@@ -13,6 +13,7 @@ public class Bowling {
 			if (spare) {
 				total += 2*ball1;
 				total += ball2;
+				spare = false;
 				
 			} else {
 				total += ball1;
