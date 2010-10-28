@@ -6,11 +6,12 @@ public class Bowling {
 		boolean spare = false;
 		for(int i=0 ; i< game.length/2 ; i++){
 			int ball1 = game[2*i];
-			int ball2 = game[2*i];
+			int ball2 = game[2*i+1];
 			
-			total += frameTotal;
+			total += ball1;
+			total += ball2;
 			
-			if (frameTotal == 10) {
+			if (ball1 + ball2 == 10) {
 				spare = true;
 			}
 			
